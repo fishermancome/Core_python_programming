@@ -1,1 +1,2 @@
-# Core_python_programming
+# Core_python_programming 
+# exercises
